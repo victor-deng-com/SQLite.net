@@ -1,0 +1,17 @@
+D:\workspace\visual studio\Projects\Github_private\SQLite.net\BaseOperation\bin\Debug\BaseOperation.exe.config
+D:\workspace\visual studio\Projects\Github_private\SQLite.net\BaseOperation\bin\Debug\BaseOperation.exe
+D:\workspace\visual studio\Projects\Github_private\SQLite.net\BaseOperation\bin\Debug\BaseOperation.pdb
+D:\workspace\visual studio\Projects\Github_private\SQLite.net\BaseOperation\obj\Debug\BaseOperation.Form1.resources
+D:\workspace\visual studio\Projects\Github_private\SQLite.net\BaseOperation\obj\Debug\BaseOperation.Properties.Resources.resources
+D:\workspace\visual studio\Projects\Github_private\SQLite.net\BaseOperation\obj\Debug\BaseOperation.csproj.GenerateResource.Cache
+D:\workspace\visual studio\Projects\Github_private\SQLite.net\BaseOperation\obj\Debug\BaseOperation.exe
+D:\workspace\visual studio\Projects\Github_private\SQLite.net\BaseOperation\obj\Debug\BaseOperation.pdb
+D:\workspace\visual studio\Projects\Github_private\SQLite.net\BaseOperation\bin\Debug\EntityFramework.dll
+D:\workspace\visual studio\Projects\Github_private\SQLite.net\BaseOperation\bin\Debug\EntityFramework.SqlServer.dll
+D:\workspace\visual studio\Projects\Github_private\SQLite.net\BaseOperation\bin\Debug\System.Data.SQLite.dll
+D:\workspace\visual studio\Projects\Github_private\SQLite.net\BaseOperation\bin\Debug\System.Data.SQLite.EF6.dll
+D:\workspace\visual studio\Projects\Github_private\SQLite.net\BaseOperation\bin\Debug\System.Data.SQLite.Linq.dll
+D:\workspace\visual studio\Projects\Github_private\SQLite.net\BaseOperation\bin\Debug\EntityFramework.xml
+D:\workspace\visual studio\Projects\Github_private\SQLite.net\BaseOperation\bin\Debug\EntityFramework.SqlServer.xml
+D:\workspace\visual studio\Projects\Github_private\SQLite.net\BaseOperation\bin\Debug\System.Data.SQLite.xml
+D:\workspace\visual studio\Projects\Github_private\SQLite.net\BaseOperation\obj\Debug\BaseOperation.csprojResolveAssemblyReference.cache
